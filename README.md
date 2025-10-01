@@ -1,6 +1,6 @@
 # C++ SQL-like Data Structure Program
 
-This C++ program implements a SQL-like data structure for managing tables and executing SQL commands. It utilizes various self-implemented data structures and algorithms, including binary files handling, SQL parsing, Bplus Tree, mapping, multi-mapping, tokenization, and state machine algorithms. The provided `basic_test.cpp` file tests the functionality of the program with a set of predefined SQL commands.
+This C++ program implements a mock SQL-DBMS for managing tables and executing SQL commands. It utilizes various self-implemented data structures and algorithms, including binary files handling, SQL parsing, Bplus Tree, mapping, multi-mapping, tokenization, and state machine algorithms. The provided `basic_test.cpp` file tests the functionality of the program with a set of predefined SQL commands.
 
 Link to the demonstration of the program : https://www.youtube.com/watch?v=Kzt5-230PEI
 
@@ -17,7 +17,7 @@ Link to the demonstration of the program : https://www.youtube.com/watch?v=Kzt5-
 
 ## Overview
 
-The program implements a SQL-like environment where users can create tables, insert data into tables, and perform select queries. It includes features such as creating tables with specified fields, inserting values into tables, and executing select queries with various conditions. The `basic_test.cpp` file demonstrates the functionality of the SQL commands supported by the program.
+The program implements a SQL database management environment where users can create tables, insert data into tables, and perform select queries. It includes features such as creating tables with specified fields, inserting values into tables, and executing select queries with various conditions. The `basic_test.cpp` file demonstrates the functionality of the SQL commands supported by the program.
 
 ## Files and Directory Structure
 
@@ -71,7 +71,7 @@ The program can be developed and tested in any C++ development environment or ID
 
 ## Credits
 
-This SQL-like data structure program was developed by [Myat-Thiha]. Credits to Google Test for testing support.
+This project was developed by [Myat-Thiha]. Credits to Google Test for testing support.
 
 ---
 
