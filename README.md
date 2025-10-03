@@ -1,4 +1,4 @@
-# C++ SQL-like Data Structure Program
+# C++ SQL Database Management Program
 
 This C++ program implements a mock SQL-DBMS for managing tables and executing SQL commands. It utilizes various self-implemented data structures and algorithms, including binary files handling, SQL parsing, Bplus Tree, mapping, multi-mapping, tokenization, and state machine algorithms. The provided `basic_test.cpp` file tests the functionality of the program with a set of predefined SQL commands.
 
